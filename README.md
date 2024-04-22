@@ -1,0 +1,2 @@
+# hums-whistles
+ The intension behind this piece is an accessible and unique digital instrument. This instrument would have audial output and analogous visual expressions. I recorded some sounds and settled on a few of my wife’s hums and whistles. I then used the P5 library to load sounds and connected their levels to expanding rectangles. Colorful rectangles pop on top of the muted, gray background. By pressing the parallel keystrokes, the user can hear and see the results.
